@@ -255,6 +255,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [Cal Evans](https://twitter.com/CalEvans) - PHP developer and open source contributor.
 * [Chad Fowler](https://twitter.com/chadfowler) - Developer, speaker and author of The Passionate Programmer book.
 * [Christophe Coevoet](https://twitter.com/Stof70) - Member of Symfony2 core development and open source contributor to projects like Doctrine ORM.
+* [Christopher Pitt](https://twitter.com/assertchris) - Developer and writer, working at SilverStripe.
 * [David Zuelke](https://twitter.com/dzuelke) - PHP developer at Heroku and regular speaker.
 * [Dayle Rees](https://twitter.com/daylerees) - Laravel evangelist and author of Laravel Code Bright and Code Happy books.
 * [Derick Rethans](https://twitter.com/derickr) - Author of Xdebug and PHP engineer/evangelist on MongoDB.
